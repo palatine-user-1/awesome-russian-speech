@@ -72,6 +72,7 @@
   * <https://github.com/Den4ikAI/runorm> - числа в текст, обработка английских слов, раскрытие сокращений
   * <https://github.com/just-ai/multilingual-text-parser>
   * <https://github.com/Balamoote/tts-scripts> - куча скриптов awk и данных для озвучки книг
+  * <https://github.com/NickZaitsev/ru-normalizr> - преобразователь на регулярных выражениях
 
 # Мультимодальные LLM
 
