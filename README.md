@@ -123,7 +123,7 @@
 
 # Облачные API распознавания речи
 
-  * [Palatine Speech](https://speech.palatine.ru/) — российская облачная платформа и OpenAI-совместимый API для распознавания речи, диаризации, таймкодов, субтитров, перевода и суммаризации. Также развивается локальное приложение [Palatine Murmur 0.4.0](https://speech.palatine.ru/) для записи и транскрипции встреч на Mac с Apple Silicon; версии для Windows и Linux находятся в разработке.
+  * [Palatine Speech](https://speech.palatine.ru/) — российская облачная платформа и OpenAI-совместимый API для распознавания речи, диаризации, таймкодов, субтитров, перевода и суммаризации. Также развивается локальное приложение [Palatine Murmur 0.4.0](https://speech.palatine.ru/) для записи и транскрипции встреч, доступное для macOS, Windows и Linux.
 
 # Модели для распознавания речи
 
@@ -165,10 +165,6 @@
   * <https://github.com/averkij/multipunct>
   * <https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts> [HuggingFace](https://huggingface.co/denis-berezutskiy-lad/lad_transcription_bert_ru_punctuator)
   * <https://huggingface.co/ai-forever/sage-fredt5-distilled-95m> - набор моделей SAGE
-
-# Облачные API распознавания речи
-
-  * [Palatine Speech](https://speech.palatine.ru/) — российская облачная платформа и OpenAI-совместимый API для распознавания речи, диаризации, таймкодов, субтитров, перевода и суммаризации. Также развивается локальное приложение [Palatine Murmur 0.4.0](https://speech.palatine.ru/) для записи и транскрипции встреч на Mac с Apple Silicon; версии для Windows и Linux находятся в разработке.
 
 # История
 
